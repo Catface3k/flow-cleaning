@@ -1,0 +1,6 @@
+{
+  "name": "Flow Cleaning",
+  "description": "Premium residential and commercial cleaning service platform with instant quoting, interactive room-by-room booking wizard, service detail subpages, quality checklists, and customer portal.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
